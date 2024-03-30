@@ -9,10 +9,10 @@
           {{- partial "header/tagline_paragraph.html" . -}}
         {{ end }}
         <div class="flex mt-6 justify-start md:justify-center">
-          {{ with .Params.header_button_cta }}
+          {{ with .Params.header_button_more }}
             {{- partial "header/button_more.html" . -}}
           {{ end }}
-          {{ with .Params.header_button_more }}
+          {{ with .Params.header_button_cta }}
             {{- partial "header/button_cta.html" . -}}
           {{ end }}
         </div>
