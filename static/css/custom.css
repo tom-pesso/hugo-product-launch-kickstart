@@ -1,0 +1,6 @@
+/* Example using a generic .header selector. Replace '.header' with your actual header selector. */
+.header {
+  background-image: url('/images/Flag_of_Europe.png'); /* Adjust the URL to the path of your image */
+  background-size: cover; /* Cover ensures the background covers the header area */
+  background-position: center; /* Centers the background image */
+}

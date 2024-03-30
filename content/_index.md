@@ -17,7 +17,7 @@ Dirk Schumacher is the head of European macro research at Natixis. Before joinin
 
 
 ---
-# Subscribe to the Newsletter
+## Subscribe to the Newsletter
 
 {{< custom_contact_form id="custom-contact-form" action="/your-form-submission-endpoint" placeholder_name="Your Name" placeholder_surname="Your Surname" placeholder_email="Your Email Address" button_label="Submit" >}}
 
