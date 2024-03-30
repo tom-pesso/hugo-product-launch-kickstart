@@ -10,10 +10,10 @@
         {{ end }}
         <div class="flex mt-6 justify-start md:justify-center">
           {{ with .Params.header_button_cta }}
-            {{- partial "header/button_cta.html" . -}}
+            {{- partial "header/button_more.html" . -}}
           {{ end }}
           {{ with .Params.header_button_more }}
-            {{- partial "header/button_more.html" . -}}
+            {{- partial "header/button_cta.html" . -}}
           {{ end }}
         </div>
       </div>
