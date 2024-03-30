@@ -9,11 +9,11 @@ header_button_more:
   title: "Past newsletters"
 ---
 
-# About the newsletter and Dirk Schumacher
+## About the Newsletter
 
-The week that was in Europe is a weekly newsletter which provides ............. xxxx
+The week that was in Europe is a weekly newsletter personally edited by Dirk Schumacher. It provides ............. xxxx
 
-Dirk Schumacher is the head of European macro research at Natixis. Before joining Natixis in 2018, he worked at the ECB in the business cycle analysis division. Prior to the ECB, Dirk worked for 17 years at Goldman Sachs in Frankfurt and London in the research department. Dirk got his PhD from Frankfurt University under the supervision of former Bundesbank President Axel Weber.
+Dirk Schumacher is the head of European macro research at Natixis. Before joining Natixis in 2018, he worked at the ECB in the business cycle analysis division. Prior to the ECB, Dirk worked for 17 years at Goldman Sachs in Frankfurt and London in the research department. He holds a PhD from Frankfurt University, which was awarded under the guidance of Axel Weber, the former President of the Bundesbank.
 
 
 ---
