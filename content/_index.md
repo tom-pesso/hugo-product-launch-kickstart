@@ -1,12 +1,12 @@
 ---
 header_brand: "The week that was in Europe"
 header_tagline_paragraph: "by Dr. Dirk Schumacher"
-header_button_cta:
+header_button_more:
   url: "#custom-contact-form"
   title: "Subscribe to the Newsletter"
-header_button_more:
+header_button_cta:
   url: "#the-future---today"
-  title: "Past newsletters"
+  title: "Past Newsletters"
 ---
 
 ## About the Newsletter
