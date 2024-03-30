@@ -1,16 +1,14 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_brand: "The Week there was in Europe"
+header_tagline_paragraph: "by Dirk Schumacher"
 header_button_cta:
-  url: "#contact-form"
+  url: "#custom_contact_form"
   title: "Subscribe to the newsletter"
 header_button_more:
   url: "#the-future---today"
-  title: "Why this is awesome?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+  title: "Past newsletters"
 ---
 
-TESTTTT 1
 # The Future - Today!
 
 Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
@@ -31,13 +29,5 @@ You guessed it! We put our money where our mouth is. This is what we accomplishe
 ![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
 
 Check out this sweet preview. Impressed much, are you?
-
----
-
-# Stay in touch
-
-Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
-
-{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up" data-netlify="true">}}
 
 
